@@ -33,3 +33,24 @@
 #teb{
     border-radius: 100% 
 }
+#account{
+    background-color: blue;
+    margin-left: 70%;
+}
+#balance{
+    color: white;
+}
+#income{
+    color: white;
+}
+#numri{
+    display: flex;
+}
+#expenses{
+    display: flex;
+    margin-left: 70%;
+}
+#income1{
+    display: flex;
+    margin-left: 70%;
+}
