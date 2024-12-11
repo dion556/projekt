@@ -1,0 +1,35 @@
+#navbari{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+}
+#personi{
+    border-radius: 100%;
+}
+#netflix{
+    color: red;
+    
+}
+#spotify{
+    color: red;
+
+}
+#perez{
+    color: red;
+}
+#sylvia{
+    border-radius: 100%
+}
+#A{
+    color: green;
+}
+#AA{
+    border-radius: 100%
+}
+#tebbank{
+    color: red;
+}
+#teb{
+    border-radius: 100% 
+}
